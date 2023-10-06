@@ -18,9 +18,9 @@ GGUF 4_K_M + 5_K_M can be found here: https://huggingface.co/lizpreciatior/lzlv_
 ## Procedure:
 
 Models used:
-- NousResearch/Nous-Hermes-Llama2-70b - A great model for roleplaying, but not the best at following complex instructions.
-- Xwin-LM/Xwin-LM-7B-V0.1 - Excellent at following instructions and quite creative out of the box, so it seemed like the best available model to act as the base of the merge.
-- Doctor-Shotgun/Mythospice-70b - The wildcard of the three. I was looking for a creative, NSFW-oriented model and came across this while digging through hf. I had never heard of it before, and apparently no one had bothered to release a quantized version of this model. So I downloaded it and did it myself to test it. It turned out to be more or less what I was looking for as my third component, so I used it here. 
+- **NousResearch/Nous-Hermes-Llama2-70b** - A great model for roleplaying, but not the best at following complex instructions.
+- **Xwin-LM/Xwin-LM-7B-V0.1** - Excellent at following instructions and quite creative out of the box, so it seemed like the best available model to act as the base of the merge.
+- **Doctor-Shotgun/Mythospice-70b** - The wildcard of the three. I was looking for a creative, NSFW-oriented model and came across this while digging through hf. I had never heard of it before, and apparently no one had bothered to release a quantized version of this model. So I downloaded it and did it myself to test it. It turned out to be more or less what I was looking for as my third component, so I used it here. 
 
 A big thank you to the creators of the models above. If you look up Mythospice, you will notice that it also includes Nous-Hermes so it's technically present twice in this mix. This is common practice in 13B merges so I didn't bother to correct it her either. 
 
