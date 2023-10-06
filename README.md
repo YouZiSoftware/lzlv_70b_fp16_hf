@@ -8,7 +8,11 @@ license: cc-by-nc-2.0
 
 A multi-model merge of several  LLaMA2 70B finetunes for roleplaying and creative work. The goal was to create a model that combines creativity with intelligence for an enhanced experience.
 
-Did it work? Probably, maybe. 
+Did it work? Probably, maybe. It seemed subjectively better than each of the individual models in my tests.
+
+
+
+GGUF 4_K_M + 5_K_M can be found here: https://huggingface.co/lizpreciatior/lzlv_70b_fp16_hf/settings
 
 
 ## Procedure:
