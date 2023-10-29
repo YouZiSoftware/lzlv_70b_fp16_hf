@@ -12,7 +12,15 @@ Did it work? Probably, maybe. It seemed subjectively better than each of the ind
 
 
 
-GGUF 4_K_M + 5_K_M can be found here: https://huggingface.co/lizpreciatior/lzlv_70b_fp16_hf/settings
+~~GGUF 4_K_M + 5_K_M can be found here: https://huggingface.co/lizpreciatior/lzlv_70b_fp16_hf/settings~~
+
+Update 29/10:
+Thank you to TheBloke for making the whole range of quants for lzlv: https://huggingface.co/TheBloke/lzlv_70B-GGUF
+
+Also recommended: lzlv merged with limarpv3 - check it out here: https://huggingface.co/Doctor-Shotgun/lzlv-limarpv3-l2-70b/tree/main
+Thanks for merging the LoRA. I think it gives the model a bit more creative spice. 
+
+lzlvV2 is in the works. Soon(tm).
 
 
 ## Procedure:
